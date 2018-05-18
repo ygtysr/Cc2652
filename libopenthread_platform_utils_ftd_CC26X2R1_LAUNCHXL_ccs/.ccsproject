@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="8.0.0"/>
+	<deviceVariant value="Cortex M.CC2652R1F"/>
+	<deviceFamily value="TMS470"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="18.1.1.LTS"/>
+	<isElfFormat value="true"/>
+	<createSlaveProjects value=""/>
+	<ignoreDefaultDeviceSettings value="true"/>
+	<templateProperties value="id=libopenthread_platform_utils_ftd_CC26X2R1_LAUNCHXL_ccs.projectspec.libopenthread_platform_utils_ftd_CC26X2R1_LAUNCHXL_ccs,target=ti.targets.arm.elf.M4,platform=ti.platforms.simplelink:CC2652R1F,buildProfile=Release,"/>
+	<origin value="/home/yigit/ti/ti/simplelink_cc26x2_sdk_2_10_00_44/source/third_party/openthread/etc/ti/CC26X2R1_LAUNCHXL/ccs/libopenthread_platform_utils_ftd_CC26X2R1_LAUNCHXL_ccs.projectspec"/>
+	<filesToOpen value=""/>
+</projectOptions>
